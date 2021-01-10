@@ -2,7 +2,6 @@ import React from 'react';
 
 import PlanCard from '../components/PlanCard';
 
-
 import * as S from './styles';
 import avatar from '../images/avatar.jpg';
 import firstImg from '../images/firstImg.jpg';
